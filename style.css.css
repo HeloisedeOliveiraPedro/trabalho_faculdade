@@ -1,0 +1,48 @@
+body{
+    background-color:aliceblue;
+}
+h1{
+    color:blueviolet;
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+    text-align: justify;
+}
+
+li{
+    margin-bottom: 10px;
+}
+
+img{
+    width: 200px;
+    border-radius: 10px;
+}
+
+table{
+    width:40%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table td{
+    width:40%;
+    border:1px solid;
+    margin-top: 20px;
+    text-align: center;
+}
+
+table img{
+    border-radius: 8px;
+}
+
+a{
+    color: blue;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover{
+    color: brown ;
+}
